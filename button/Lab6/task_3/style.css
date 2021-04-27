@@ -1,0 +1,60 @@
+body{
+    margin: 10px;
+    padding: 10px;
+}
+.A{
+    margin: auto auto;
+ /*   border: 2px solid #ff0000;*/
+    width: auto;
+    height: 112px;
+    background:url("body-bg.png");
+
+}
+.B{
+    margin: auto auto;
+  /*  border: 2px solid #00ff00;*/
+    width: 800px;
+    height: 112px;
+    background: center / contain no-repeat url("utp.png");
+}
+.button{
+    background-color: #d8d9d8; 
+    border: none;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+
+    
+}
+a{
+    display: inline-flex;
+    width: auto;
+    height: auto;
+    
+   
+}
+a:active{ 
+    background: #bcb4b4;   
+    border:2px solid #f9826c;
+    border: 0;
+
+
+    
+}
+
+.C{
+text-align: center;
+/*border: 2px solid #ff0000;*/
+  
+position: relative;
+  margin: 10px auto; /* верх:   отступ 10px */
+                            /* право:  отступ 3px */
+                            /* низ:    отступ 30px */
+                            /* лево:   отступ 5px */
+  /*  border: 2px solid #0031ff;*/
+ 
+}
+         

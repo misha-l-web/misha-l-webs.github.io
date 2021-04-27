@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.A{
+    background: linear-gradient(to bottom, #271f20, #473833);
+    margin: 100px 200px;
+    width: 1048px;
+    height: 600px;
+    border: 2px solid red;
+}
+.B{
+    background-image: url(https://www.gastronom.ru/binfiles/images/20201103/b8187b16.jpeg);
+    background-position: center;
+    width: 378px;
+    height: 490px;
+    border: 2px solid green;
+}
+.C{
+      margin: 50px 25px;  /* верх:   отступ 10px */
+                            /* право:  отступ 3px */
+                            /* низ:    отступ 30px */
+                            /* лево:   отступ 5px */
+    border: 2px solid blue;
+    width: 990px;
+    height: 490px;
+    background: white;
+}
+.settings{
+    display: inline-block;
+}
+.black{
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    background: black;
+    margin: 175px -20px;
+    border: 2px solid yellow;
+    width: 382px;
+    height: 230px;
+}
+
+.span1
+{
+    font-size: 40px;
+    color: white;
+}
+.span2
+{
+    font-size: 10px;
+    color: yellow;
+}
+.span3
+{
+    font-size: 22px;
+    color: white;
+}
+.span4
+{
+    font-size: 40px;
+    color: white;
+}
